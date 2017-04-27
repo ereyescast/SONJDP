@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="selected_date"></string>
+    <string name="pick_date">Seleccionar</string>
+    <string name="fecNac">Fecha de Nacimiento:</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="hint_nombre">Nombres</string>
+    <string name="accion_cancelar">Cancelar</string>
+    <string name="accion_aceptar">Grabar</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_doc">Documento de Identidad</string>
+    <string name="hint_celular">Celular</string>
+    <string name="hint_correo">Correo Electrónico</string>
+    <string name="hint_apellido">Apellidos</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="accion_regresar">Regresar</string>
+    <string name="hint_repite">Repetir Contraseña</string>
+    <string name="accion_siguiente">Siguiente</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="Registro">Registrate</string>
+    <string name="llamar">LLámanos</string>
+    <string name="ubicanos">Ubícanos</string>
+</resources>
